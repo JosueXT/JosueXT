@@ -36,25 +36,13 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosueXT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JosueXT/JosueXT/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JosueXT/JosueXT/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JosueXT/JosueXT/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/37vocbyy1v5fq2i4ro9zspe6h">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=37vocbyy1v5fq2i4ro9zspe6h&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
